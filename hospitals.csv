@@ -1,0 +1,5 @@
+hospital_id,hospital_name,city,bed_capacity
+H001,Hyderabad Central Hospital,Hyderabad,250
+H002,Secunderabad Care Hospital,Hyderabad,180
+H003,Kukatpally Community Hospital,Hyderabad,200
+H004,LB Nagar Community Hospital,Hyderabad,150
