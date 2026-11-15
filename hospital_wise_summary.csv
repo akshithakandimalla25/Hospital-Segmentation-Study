@@ -1,0 +1,5 @@
+hospital_id,Patient_Count,Percentage,Total_OPD_Visits,Total_Billing,Average_Billing,hospital_name
+H001,15926,31.85,57275,143599531.2,2822.71,Hyderabad Central Hospital
+H002,11532,23.06,41516,104335481.82,2833.82,Secunderabad Care Hospital
+H003,12565,25.13,45383,115371603.77,2842.16,Kukatpally Community Hospital
+H004,9977,19.95,35826,90972784.31,2868.36,LB Nagar Community Hospital

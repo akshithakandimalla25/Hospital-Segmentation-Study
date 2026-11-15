@@ -1,0 +1,5 @@
+Cluster,Segment,Recommended_Action,Estimated_Cost_Per_Patient,Expected_Target
+0,No Recent OPD Activity,Send appointment reminders and follow-up messages,50,10% increase in OPD reactivation
+1,High Utilization Patients,Introduce personalized preventive health check-up packages,300,10% increase in preventive check-up participation
+2,Low Billing Patients,Review billing records and improve billing data completeness,40,Improve billing record completeness by 15%
+3,OPD-Focused Patients,Promote appropriate preventive health screening services,150,10% increase in screening participation
